@@ -6,3 +6,4 @@
 
 <h2>ไฟล์รันที่ Web Browser (Google Colab)</h2>
 <pre>https://colab.research.google.com/drive/1EZulm2y-RelUeXOVwA0cw6A5SSaUFb4s?usp=sharing</pre>
+<a href="https://colab.research.google.com/drive/1EZulm2y-RelUeXOVwA0cw6A5SSaUFb4s?usp=sharing" type="button">คลิกที่ปุ่ม</a>
